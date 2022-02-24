@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8A5491b94df6B8bB156e629619A71c30174CDD43",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x8A5491b94df6B8bB156e629619A71c30174CDD43",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Lucid Blobs",
+  "SYMBOL": "LUBL",
+  "MAX_SUPPLY": 300,
+  "WEI_COST": 15000000000000000,
+  "DISPLAY_COST": 0.015,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/lucidblobs",
+  "SHOW_BACKGROUND": false
+}
