@@ -14,5 +14,6 @@
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/lucidblobs",
-  "SHOW_BACKGROUND": false
+  "SHOW_BACKGROUND": false,
+  "SNAPSHOT_LINK": "https://snapshot.org/#/"
 }
