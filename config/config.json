@@ -11,9 +11,11 @@
   "MAX_SUPPLY": 300,
   "WEI_COST": 15000000000000000,
   "DISPLAY_COST": 0.015,
-  "GAS_LIMIT": 285000,
+  "GAS_LIMIT": 30000,
+  "GAS_BASE": 40000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/lucidblobs",
   "SHOW_BACKGROUND": false,
-  "SNAPSHOT_LINK": "https://snapshot.org/#/"
+  "SNAPSHOT_LINK": "https://snapshot.org/#/lucidspectre.eth",
+  "GNOSIS_LINK": "https://gnosis-safe.io/app/eth:0xd940E29963512b9Df28a55e9E4EDfedF3cCa336D/balances"
 }
